@@ -8,5 +8,5 @@ Thanks for popping in. My name is Mark Sadegi and I'm thankful everyday to be ab
 
 ## Portfolio 
 [marksadegi.com](https://www.marksadegi.com)
->__Rollover the individual responsibilities to highlight all the technologies used for that responsibility.__
+>_Rollover the individual responsibilities to highlight all the technologies used for that responsibility._
 ![highlight tech](highlight_tech.png)

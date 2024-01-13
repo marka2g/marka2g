@@ -1,6 +1,6 @@
 👋 Heyo 👋
 
-Thanks for popping in. My name is Mark Sadegi and I'm thankful everyday to be able to earn a living from programming! Below are some public repos that I occasionally improve and often refer to when I want to reference a concept. Also, a link to my portfolio and sample writings are listed. 
+Thanks for popping in. My name is Mark Sadegi and I'm thankful everyday to be able to earn a living from programming! Below are some public repos that I occasionally improve and often refer to when I want to reference a concept. Also, a link to my portfolio and sample writings are listed too. 
 
 ## Notable Pubic Repos
 1. [Bike Shop](https://github.com/marka2g/bike_shop): A demo e-commerce app with a basic example of how to build a shopping cart with [GenServer](https://hexdocs.pm/elixir/GenServer.html).
@@ -10,3 +10,6 @@ Thanks for popping in. My name is Mark Sadegi and I'm thankful everyday to be ab
 [marksadegi.com](https://www.marksadegi.com)
 >_Rollover the individual responsibilities to highlight all the technologies used for that responsibility._
 ![highlight tech](highlight_tech.png)
+
+## Writings
+[marksmarkdown.com](https://marksmarkdown.com/elevator-pitch.html)

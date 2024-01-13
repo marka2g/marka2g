@@ -7,5 +7,6 @@ Thanks for popping in. My name is Mark Sadegi and I'm thankful everyday to be ab
 2. [EventIngestor](https://github.com/marka2g/event_ingestor): A demo repo to simulate an app which will ingest a high-volume of events that could come from a device, user behavior, machine on a factory floor, etc.  Built with Elixir
 
 ## Portfolio 
-[www.marksadegi.com](www.marksadegi.com){:target="_blank"}: __Rollover the individual responsibilities to highlight all the technologies used for that responsibility.__
+<a href="marksadegi.com" target="_blank">www.marksadegi.com</a>
+>__Rollover the individual responsibilities to highlight all the technologies used for that responsibility.__
 ![highlight tech](highlight_tech.png)

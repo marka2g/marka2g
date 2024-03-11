@@ -13,7 +13,7 @@ Thanks for popping in. My name is Mark Sadegi and I'm thankful everyday to be ab
 [marksadegi.com](https://www.marksadegi.com)
 >_Rollover the individual responsibilities to highlight all the technologies used for that responsibility._
 
-[![res-rollover-demo](./highlight_tech.png)](./res-rollover-demo.mp4)
+https://github.com/marka2g/marka2g/assets/12756/a00391e3-be3f-410e-bd1c-92e144447e8c
 
 
 ## Writings

@@ -12,10 +12,9 @@ Thanks for popping in. My name is Mark Sadegi and I'm thankful everyday to be ab
 ## Portfolio 
 [marksadegi.com](https://www.marksadegi.com)
 >_Rollover the individual responsibilities to highlight all the technologies used for that responsibility._
-<!-- ![highlight tech](highlight_tech.png) -->
-<!-- [![](https://markdown-videos-api.jorgenkh.no/youtube/{video_id})](https://youtu.be/{video_id}) -->
 
-[![res-rollover-demo](highlight_tech.png)](./res-rollover-demo.mp4)
+[![res-rollover-demo](./highlight_tech.png)](./res-rollover-demo.mp4)
+
 
 ## Writings
 [marksmarkdown.com](https://marksmarkdown.com/elevator-pitch.html)

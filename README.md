@@ -18,3 +18,6 @@ https://github.com/marka2g/marka2g/assets/12756/a00391e3-be3f-410e-bd1c-92e14444
 
 ## Writings
 [marksmarkdown.com](https://marksmarkdown.com/elevator-pitch.html)
+
+![Screenshot 2024-03-14 at 18 20 18](https://github.com/marka2g/marka2g/assets/12756/2e644a55-530b-447d-8b6c-1f3a425ef4a4)
+

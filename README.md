@@ -19,5 +19,6 @@ https://github.com/marka2g/marka2g/assets/12756/a00391e3-be3f-410e-bd1c-92e14444
 ## Writings
 [marksmarkdown.com](https://marksmarkdown.com/elevator-pitch.html)
 
-https://github.com/marka2g/marka2g/assets/12756/5ba1aa39-9432-4446-9711-0ad9cd67744f
+
+https://github.com/marka2g/marka2g/assets/12756/0031ca72-7921-43aa-8d71-7801f0b075d0
 
